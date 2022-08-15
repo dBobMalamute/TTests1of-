@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/NumbersDisplayIdea.qml</file>
+        <file>QML/NumbersInputIdea.qml</file>
+        <file>QML/NumbersMeanIdea.qml</file>
+        <file>Images/MeanGrid.png</file>
+        <file>QML/NumbersMeanIdeaDot.qml</file>
+        <file>Images/GridLines.png</file>
+        <file>QML/NumbersStatistic.qml</file>
+        <file>QML/SpeedControl.qml</file>
+        <file>QML/NumbersStandardDeviationIdeaRectangle.qml</file>
+        <file>Images/StandardDeviationGrid.png</file>
+        <file>Icons/NumbersMean.png</file>
+        <file>Icons/NumbersInput.png</file>
+        <file>Icons/NumbersDisplay.png</file>
+        <file>Icons/NumbersVariance.png</file>
+        <file>QML/NumbersStorageIdea.qml</file>
+        <file>QML/NumbersVarianceIdea.qml</file>
+        <file>QML/NumbersVarianceRectangle.qml</file>
+        <file>QML/NumbersStandardControlBar.qml</file>
+        <file>QML/QMLTemplates/StatisticTemplate.qml</file>
+    </qresource>
+</RCC>

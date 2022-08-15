@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/DistributionDisplayControls.qml</file>
+        <file>Icons/GaussianDistribution.png</file>
+        <file>Icons/DistributionDisplay.png</file>
+        <file>QML/GaussianDistributionIdea.qml</file>
+        <file>Images/GridLines.png</file>
+        <file>QML/DistributionDisplayIdea.qml</file>
+        <file>QML/DistributionSamplerIdea.qml</file>
+        <file>QML/DistributionSamplerDot.qml</file>
+        <file>QML/DistributionSamplerMinimized.qml</file>
+        <file>Icons/DistributionSampler.png</file>
+        <file>QML/SpeedControl.qml</file>
+        <file>Images/Pencil.png</file>
+        <file>Images/RemoveDot.png</file>
+        <file>Images/AddDot.png</file>
+        <file>QML/DistributionDisplayDiscreteDot.qml</file>
+        <file>QML/StudentTDistributionIdea.qml</file>
+        <file>Icons/StudentT.png</file>
+        <file>Images/DistributionAreaUpperBound.png</file>
+        <file>Images/DistributionAreaLowerBound.png</file>
+        <file>Images/ValueAtDistributionPoint.png</file>
+        <file>QML/QMLTemplates/DistributionDisplay.qml</file>
+        <file>QML/QMLTemplates/SamplerTemplate.qml</file>
+        <file>QML/QMLTemplates/UpDownButton.qml</file>
+        <file>QML/DagumDistributionIdea.qml</file>
+        <file>Icons/DagumDistribution.png</file>
+    </qresource>
+</RCC>

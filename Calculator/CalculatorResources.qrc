@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/NumberInputIdea.qml</file>
+        <file>QML/NumberDisplayIdea.qml</file>
+        <file>QML/LabeledNumberInputIdea.qml</file>
+        <file>QML/LabeledNumberDisplayIdea.qml</file>
+        <file>Icons/Subtraction.png</file>
+        <file>Icons/NumberInput.png</file>
+        <file>Icons/NumberDisplay.png</file>
+        <file>Icons/Multiplication.png</file>
+        <file>Icons/LabeledNumberInput.png</file>
+        <file>Icons/LabeledNumberDisplay.png</file>
+        <file>Icons/Division.png</file>
+        <file>Icons/Addition.png</file>
+        <file>QML/SubtractionIdea.qml</file>
+        <file>QML/MultiplicationMinimized.qml</file>
+        <file>QML/DivisionIdea.qml</file>
+        <file>QML/AdditionMinimized.qml</file>
+        <file>Images/SquareRootImage.png</file>
+        <file>Images/TallSquareRootImage.png</file>
+        <file>QML/QMLTemplates/TwoToOneTemplate.qml</file>
+        <file>QML/QMLTemplates/OneToOneTemplate.qml</file>
+        <file>Images/UpArrows.png</file>
+        <file>Images/DownArrows.png</file>
+        <file>QML/AdditionIdea.qml</file>
+        <file>QML/AdditionHelperFunctions.js</file>
+        <file>QML/AdditionBox.qml</file>
+        <file>QML/MultiplicationIdea.qml</file>
+        <file>QML/MultiplicationHelperFunctions.js</file>
+        <file>QML/MultiplicationBox.qml</file>
+    </qresource>
+</RCC>

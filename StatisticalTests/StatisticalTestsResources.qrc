@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/OneSampleOneSidedTTest.qml</file>
+        <file>QML/TValueBar.qml</file>
+        <file>QML/TTestSpeedControl.qml</file>
+        <file>QML/TTestMinimized.qml</file>
+        <file>Icons/OneSampleOneSidedTTest.png</file>
+        <file>QML/TTestDotv2.qml</file>
+        <file>Images/DistributionBackground.png</file>
+        <file>QML/QMLTemplates/StatisticalTestTemplate.qml</file>
+        <file>QML/QMLTemplates/BridgeRailings.qml</file>
+        <file>QML/QMLTemplates/StatisticalTestMinimized.qml</file>
+    </qresource>
+</RCC>
